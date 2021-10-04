@@ -2,7 +2,7 @@
 <p align="center"><img src="/image/TOP_LOGO.png"></p>
 <p align="center">
 	<a href="https://friends.kookbang.kr/">
-		<img src="/image/DEMO_BUTTON.png" />
+		<img src="images/logo.png" />
 	</a>
 	<a href="https://kjeonghoon065.gitbook.io/kookbangfriends/">
 		<img src="/image/DOCUMNET_BUTTON.png" />
