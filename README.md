@@ -5,7 +5,7 @@
 		<img src="images/logo.png" />
 	</a>
 	<a href="https://kjeonghoon065.gitbook.io/kookbangfriends/">
-		<img src="/image/DOCUMNET_BUTTON.png" />
+		<img src="images/logo.png" />
 	</a>
 	<a href="https://github.com/dsvp/WEB_KookbangFriends_Woowahan/issues?page=1&q=is%3Aissue+is%3Aclosed">
 		<img src="/image/ISSUE_BUTTON.png" />
